@@ -19,11 +19,7 @@
   - Desafios aerodinâmicos e estratégias de corrida
   - Potencial para mais ultrapassagens e corridas mais emocionantes
 
-## Segmento 3: Entrevista Especial
-- **Convidado Especial**: "Temos o prazer de receber [Nome do Convidado], um especialista em Fórmula 1, para compartilhar suas opiniões sobre as novas regras e o que esperar para 2026."
-- **Perguntas e Respostas**: "Vamos fazer algumas perguntas para entender melhor o impacto dessas mudanças."
-
-## Segmento 4: Conclusão e Próximos Passos
+## Segmento 3: Conclusão e Próximos Passos
 - **Conclusão**: "E isso encerra nosso episódio sobre as novas regras da Fórmula 1 em 2026. Espero que você tenha gostado de aprender mais sobre o futuro da competição."
 - **Chamada para Ação**: "Não se esqueça de seguir o 'Podcast da F1' para mais episódios incríveis. Deixe seus comentários e sugestões nas nossas redes sociais. Até a próxima volta!"
 - **Música de Encerramento**
