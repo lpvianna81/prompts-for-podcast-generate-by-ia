@@ -1,5 +1,9 @@
 # Episódio Piloto: "Novas Regras da Fórmula 1 em 2026"
 
+## ✨ Como foi feito ?
+- Roteiro gerado via copilot
+- Audio gerado pela elevenLabs
+
 ## Introdução
 - **Abertura**: [Música de abertura]
 - **Apresentador**: "Bem-vindos ao 'Podcast da F1', onde mergulhamos no mundo emocionante das corridas de Fórmula 1. Eu sou [Seu Nome], seu anfitrião. No episódio de hoje, vamos explorar as novas regras que entrarão em vigor em 2026 e como elas irão transformar a competição."
